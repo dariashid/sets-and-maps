@@ -5,7 +5,10 @@ public class Main {
     private static final List<String> strings = new ArrayList<>(List.of("один", "два", "два", "три", "три", "три"));
 
     public static void main(String[] args) {
-    task4();
+        task1();
+        task2();
+        task3();
+        task4();
     }
         public static void task1 () {
             for (int num : nums) {
